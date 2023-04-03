@@ -6,13 +6,17 @@ Front End Developer
 
 I have been working as Software Developer for past 5 years. I have extensive experience in working with Angular, React, Node.js. I have a passion for building apps and learning new technologies.
 
-*   🌍  I'm based in Jaipur
-*   🖥️  See my portfolio at [this website](http://vishalash.github.io/)
-*   ✉️  You can contact me at [vishalash.it17@gmail.com](mailto:vishalash.it17@gmail.com)
-*   🚀  I'm currently working on [Personal Finance App](http://github.com/vishalash/WealthSnap)
-*   🧠  I'm learning Next.js
-*   🤝  I'm open to collaborating on interesting ideas
-*   ⚡  I am probably either cooking, travelling or coding an new idea.### Skills 
+* 🌍  I'm based in Jaipur
+* 🖥️  See my portfolio at [this website](http://vishalash.github.io/)
+* ✉️  You can contact me at [vishalash.it17@gmail.com](mailto:vishalash.it17@gmail.com)
+* 🚀  I'm currently working on [Personal Finance App](http://github.com/vishalash/WealthSnap)
+* 🧠  I'm learning Next.js
+* 🤝  I'm open to collaborating on interesting ideas
+* ⚡  I am probably either cooking, travelling or coding an new idea.
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -27,15 +31,16 @@ I have been working as Software Developer for past 5 years. I have extensive exp
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/vishalash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/vishal.ash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/vishal-ash-91b56b73" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/vishalash"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vishalash&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/vishalash" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalash&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/vishalash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vishal.ash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vishal-ash-91b56b73" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/vishalash"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vishalash&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/vishalash" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalash&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
