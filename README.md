@@ -12,7 +12,7 @@ I have been working as Software Developer for past 5 years. I have extensive exp
 * 🚀  I'm currently working on [Personal Finance App](http://github.com/vishalash/WealthSnap)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on interesting ideas
-* ⚡  I am probably either cooking, travelling or coding an new idea.
+* ⚡  I am probably either cooking, travelling or coding a new idea.
 
 ### Skills
 
