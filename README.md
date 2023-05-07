@@ -9,9 +9,9 @@ I have been working as Software Developer for past 5 years. I have extensive exp
 * 🌍  I'm based in Jaipur
 * 🖥️  See my portfolio at [this website](http://vishalash.github.io/)
 * ✉️  You can contact me at [vishalash.it17@gmail.com](mailto:vishalash.it17@gmail.com)
-* 🚀  I'm currently working on [Personal Finance App](http://github.com/vishalash/WealthSnap)
+* 🚀  I'm currently working on [Personal Finance App](http://github.com/vishalash/wealth-snap)
 * 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on interesting ideas
+* 🤝  I'm open to collaborating on interesting ideas.
 * ⚡  I am probably either cooking, travelling or coding a new idea.
 
 ### Skills
